@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\KONSTRUKSI PERANGKAT LUNAK\\modul8_103082400001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73A12F02-0711-49AB-991E-5A6C773DE32A}|modul8_103082400001\\modul8_103082400001.csproj|d:\\konstruksi perangkat lunak\\modul8_103082400001\\modul8_103082400001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73A12F02-0711-49AB-991E-5A6C773DE32A}|modul8_103082400001\\modul8_103082400001.csproj|solutionrelative:modul8_103082400001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F69FFE6-C274-8038-7F3F-2987DD955FE3}|modul8_103082400001\\modul8_103082400001.csproj|d:\\konstruksi perangkat lunak\\modul8_103082400001\\modul8_103082400001\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F69FFE6-C274-8038-7F3F-2987DD955FE3}|modul8_103082400001\\modul8_103082400001.csproj|solutionrelative:modul8_103082400001\\banktransferconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F69FFE6-C274-8038-7F3F-2987DD955FE3}|modul8_103082400001\\modul8_103082400001.csproj|d:\\konstruksi perangkat lunak\\modul8_103082400001\\modul8_103082400001\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F69FFE6-C274-8038-7F3F-2987DD955FE3}|modul8_103082400001\\modul8_103082400001.csproj|solutionrelative:modul8_103082400001\\bank_transfer_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F69FFE6-C274-8038-7F3F-2987DD955FE3}|modul8_103082400001\\modul8_103082400001.csproj|d:\\konstruksi perangkat lunak\\modul8_103082400001\\modul8_103082400001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F69FFE6-C274-8038-7F3F-2987DD955FE3}|modul8_103082400001\\modul8_103082400001.csproj|solutionrelative:modul8_103082400001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bank_transfer_config.json",
+              "DocumentMoniker": "D:\\KONSTRUKSI PERANGKAT LUNAK\\modul8_103082400001\\modul8_103082400001\\bank_transfer_config.json",
+              "RelativeDocumentMoniker": "modul8_103082400001\\bank_transfer_config.json",
+              "ToolTip": "D:\\KONSTRUKSI PERANGKAT LUNAK\\modul8_103082400001\\modul8_103082400001\\bank_transfer_config.json",
+              "RelativeToolTip": "modul8_103082400001\\bank_transfer_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T17:37:15.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BankTransferConfig.cs",
+              "DocumentMoniker": "D:\\KONSTRUKSI PERANGKAT LUNAK\\modul8_103082400001\\modul8_103082400001\\BankTransferConfig.cs",
+              "RelativeDocumentMoniker": "modul8_103082400001\\BankTransferConfig.cs",
+              "ToolTip": "D:\\KONSTRUKSI PERANGKAT LUNAK\\modul8_103082400001\\modul8_103082400001\\BankTransferConfig.cs",
+              "RelativeToolTip": "modul8_103082400001\\BankTransferConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:35:31.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\KONSTRUKSI PERANGKAT LUNAK\\modul8_103082400001\\modul8_103082400001\\Program.cs",
               "RelativeDocumentMoniker": "modul8_103082400001\\Program.cs",
               "ToolTip": "D:\\KONSTRUKSI PERANGKAT LUNAK\\modul8_103082400001\\modul8_103082400001\\Program.cs",
               "RelativeToolTip": "modul8_103082400001\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T17:15:16.289Z",
               "EditorCaption": ""
